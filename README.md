@@ -1,4 +1,6 @@
-# Node.js (REST API) + Vue.js (Frontend) + MySQL
+# Hello World!
+
+Node.js (REST API) + Vue.js (Frontend) + MySQL
 
 The project contains Node.js REST API and frontend/backend developed by Vue.js
 
